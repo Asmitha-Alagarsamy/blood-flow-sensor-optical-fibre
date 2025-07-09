@@ -21,4 +21,4 @@ MSc in Electronic Communications and Computer Engineering
 University of Nottingham, 2024
 
 ## Contact
-For questions or collaboration, connect via [GitHub](https://github.com/)
+For questions or collaboration, connect via email or [GitHub](https://github.com/)
